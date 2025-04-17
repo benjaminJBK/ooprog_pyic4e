@@ -1,0 +1,40 @@
+{
+  "cars": [
+    {
+      "license_plate": "ABC123",
+      "model": "Toyota Corolla",
+      "rental_price": 10000,
+      "door_count": 4
+    },
+    {
+      "license_plate": "DEF456",
+      "model": "Ford Focus",
+      "rental_price": 9000,
+      "door_count": 5
+    },
+    {
+      "license_plate": "GHI789",
+      "model": "Mercedes Sprinter",
+      "rental_price": 15000,
+      "capacity": 1200
+    }
+  ],
+  "rents": [
+    {
+      "license_plate": "ABC123",
+      "date": "2025-06-01"
+    },
+    {
+      "license_plate": "DEF456",
+      "date": "2025-06-01"
+    },
+    {
+      "license_plate": "GHI789",
+      "date": "2025-06-02"
+    },
+    {
+      "license_plate": "ABC123",
+      "date": "2025-06-03"
+    }
+  ]
+}
